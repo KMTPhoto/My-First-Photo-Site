@@ -1,16 +1,37 @@
+.row {
+	background-color: #d7d7d7;
+}
+
 .apple {
 	font-size: 6em;
 }
 
 
-.boat {color:#00f;
+.boat {
+	color: #00f;
 	font-size:1em;
 }
 
 
-.logo {font-size: 5em;
+.logo {
+	font-size: 5em;
 }
 
 
-.mail {font-size: 2em;
+.mail {
+	font-size: 2em;
+	color: #686868;
+	margin-top: .5px;
+	margin-bottom: 35px
+
+}
+
+.button{
+	background-color: #434b56;
+	color: #c9c9c9;
+	border: 0px solid #c9c9c9;
+}
+
+.button:hover { 
+	color: white; background-color: #747a8b; 
 }
